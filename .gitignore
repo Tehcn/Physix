@@ -110,3 +110,5 @@ ENV/
 # VSCode
 .vscode/
 *.code-workspace
+
+*/logs
